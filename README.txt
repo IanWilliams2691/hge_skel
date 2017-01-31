@@ -18,3 +18,4 @@ go ahead and replace them at any time.
 To create solution file, run one of BAT files attached. You can also run CMake to
 support some other IDE, see what it can do:
 http://www.cmake.org/cmake/help/cmake-2-8-docs.html#section_Generators
+This is me making a small change for practace. 
